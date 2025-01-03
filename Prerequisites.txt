@@ -1,0 +1,7 @@
+1-  Active Directory Module for PowerShell: 
+      Ensure the AD module is installed.
+      Run this in PowerShell to check:
+          Get-Module -ListAvailable ActiveDirectory
+      If not installed, install the RSAT: Active Directory tools.
+2-  Admin Permissions:
+    Sufficient permissions is need to create and manage users in AD.
